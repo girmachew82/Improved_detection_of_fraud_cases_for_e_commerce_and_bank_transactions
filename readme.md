@@ -21,3 +21,13 @@
 - Merge Datasets for Geolocation Analysis
 - Feature Engineering
 - Data transformation
+#### Task -2 Model Building and Training 
+- Data Preparation:
+- Separate features and target, and perform a train-test split. [‘Class’(creditcard), ‘class’(Fraud_Data)]
+- Train-Test Split 
+- Model Selection
+    - Logistic Regression
+    - Random Forest 
+-Model Training and Evaluation
+
+
